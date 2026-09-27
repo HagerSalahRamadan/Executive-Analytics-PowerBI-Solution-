@@ -96,4 +96,4 @@ Empowering users with dynamic measure switching and real-time Top N entity filte
 * **Author:** Hager Salah
 * **Role:** Data Analyst / BI Developer
 * **Email:** [hagersalah.r39@gmail.com](mailto:hagersalah.r39@gmail.com)
-* **LinkedIn:** [linkedin.com/in/hager-salah-352803234]---
+* **LinkedIn:** [linkedin.com/in/hager-salah-352803234]
