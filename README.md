@@ -1,3 +1,5 @@
+
+
 # Executive-Analytics-PowerBI-Solution-
 
 # 🚀 Enterprise Executive Performance Analytics | Power BI
@@ -8,8 +10,12 @@ Welcome to the **Executive Performance Analytics** repository. This enterprise-g
 
 ## 📽️ Project Walkthrough Video
 
-*(Upload your demonstration video here or link your preview GIF/Video)*
-![Dashboard Video Demo](docs/video-demo-placeholder.gif)
+[Watch Video on LinkedIn](https://lnkd.in/p/ebJM8U9K)
+
+*Click the button above to watch the full interactive walkthrough video on LinkedIn.*
+
+## 📸 Executive-Analytics Dashboard
+![Executive Overview Page](https://github.com/HagerSalahRamadan/Executive-Analytics-PowerBI-Solution-/blob/main/Dashboard.png)
 
 ---
 
@@ -49,7 +55,7 @@ The analytical core leverages a highly optimized **Star Schema** data model (1-t
 * **Fact Table:** `FactTransactions` (contains core measures, transactional values, and foreign keys).
 * **Dimension Tables:** `DimDate`, `DimStores`, `DimProducts`, `DimRegion`, and `DimSecurity`.
 
-![Data Model](docs/Model.png)
+![Data Model](https://github.com/HagerSalahRamadan/Executive-Analytics-PowerBI-Solution-/blob/main/Model.png)
 
 ---
 
@@ -60,7 +66,7 @@ Configuring `RangeStart` and `RangeEnd` parameters to enforce M-code Query Foldi
 
 | RangeStart Parameter | RangeEnd Parameter | Incremental Refresh Policy |
 | :---: | :---: | :---: |
-| ![RangeStart](docs/RangeStart%20Parameter.png) | ![RangeEnd](docs/RangeEnd%20Parameter.png) | ![Incremental Refresh](docs/Incremental%20Refresh.png) |
+| ![RangeStart](https://github.com/HagerSalahRamadan/Executive-Analytics-PowerBI-Solution-/blob/main/RangeStart%20Parameter.png) | ![RangeEnd](https://github.com/HagerSalahRamadan/Executive-Analytics-PowerBI-Solution-/blob/main/RangeEnd%20Parameter.png) | ![Incremental Refresh](https://github.com/HagerSalahRamadan/Executive-Analytics-PowerBI-Solution-/blob/main/Incremental%20Refresh.png) |
 
 ---
 
@@ -69,11 +75,11 @@ Configuring role definitions, security tables, and deployment to the Power BI Se
 
 | Regional RLS Logic | User Regional Security Setup | RLS Live Validation |
 | :---: | :---: | :---: |
-| ![RLS 1](docs/RLS%201.png) | ![User Regional Security](docs/User_Regional_Security%20RLS.png) | ![RLS 2](docs/RLS%202.png) |
+| ![RLS 1](https://github.com/HagerSalahRamadan/Executive-Analytics-PowerBI-Solution-/blob/main/RLS%201.png) | ![User Regional Security](https://github.com/HagerSalahRamadan/Executive-Analytics-PowerBI-Solution-/blob/main/Incremental%20Refresh.png) | ![RLS 2](https://github.com/HagerSalahRamadan/Executive-Analytics-PowerBI-Solution-/blob/main/RLS%202.png) |
 
 | Workspace Environment | InfoSec Architecture | Service Publishing |
 | :---: | :---: | :---: |
-| ![Workspace](docs/Workspace.png) | ![InfoSec](docs/infoSec.png) | ![Publishing](docs/Publishing%20to%20power%20bi.png) |
+| ![Workspace](https://github.com/HagerSalahRamadan/Executive-Analytics-PowerBI-Solution-/blob/main/Workspace.png) | ![InfoSec](https://github.com/HagerSalahRamadan/Executive-Analytics-PowerBI-Solution-/blob/main/infoSec%20.png) | ![Publishing](https://github.com/HagerSalahRamadan/Executive-Analytics-PowerBI-Solution-/blob/main/Publishing%20to%20power%20bi.png) |
 
 ---
 
@@ -82,7 +88,7 @@ Empowering users with dynamic measure switching and real-time Top N entity filte
 
 | Metric Selector Parameter | Top N Range Parameter |
 | :---: | :---: |
-| ![Metric Selector Parameter](docs/Metric%20Selector%20Field%20Parameter.png) | ![Top N Parameter](docs/Numeric%20Range%20Parameter%20Top%20N.png) |
+| ![Metric Selector Parameter](https://github.com/HagerSalahRamadan/Executive-Analytics-PowerBI-Solution-/blob/main/Metric%20Selector%20Field%20Parameter.png) | ![Top N Parameter](https://github.com/HagerSalahRamadan/Executive-Analytics-PowerBI-Solution-/blob/main/Numeric%20Range%20Parameter%20Top%20N.png) |
 
 ---
 
