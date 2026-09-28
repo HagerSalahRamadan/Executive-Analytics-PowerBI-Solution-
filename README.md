@@ -10,7 +10,7 @@ Welcome to the **Executive Performance Analytics** repository. This enterprise-g
 
 ## 📽️ Project Walkthrough Video
 
-[Watch Video on LinkedIn](https://lnkd.in/p/ebJM8U9K)
+[Watch Video on LinkedIn](https://lnkd.in/p/e2RXHuKX)
 
 *Click the button above to watch the full interactive walkthrough video on LinkedIn.*
 
